@@ -1,6 +1,6 @@
-# TokenContract
+# Diabolo Token
 
-The JetonContract is based on ERC20 standards with additionnal customized functions for management of the contract.
+The Diabolo Token is based on ERC20 standards with additionnal customized functions for management of the contract.
 
 
 ### Variable
